@@ -110,7 +110,7 @@ export default function Home() {
             <div className="md:w-1/2 flex justify-center">
               <div className="w-full max-w-md bg-white/10 backdrop-blur-sm rounded-xl shadow-2xl p-6 border border-white/20">
                 <div className="flex justify-between items-center mb-6">
-                  <h3 className="font-medium text-lg">This Week's Schedule</h3>
+                  <h3 className="font-medium text-lg">This Week&apos;s Schedule</h3>
                   <span className="text-xs text-blue-200">3 Tasks Due</span>
                 </div>
                 <div className="space-y-4">
